@@ -42,12 +42,11 @@ Areas of Interest
 - Evidence-informed programme management
 - Monitoring, Evaluation, Research and Learning (MERL)
 
-Connect
+## Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/faith-e-edet-237244194?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- Portfolio Website: https://faitheedet.github.io
-- GitHub: https://github.com/faitheedet
-
+- LinkedIn: [Faith E. Edet](https://www.linkedin.com/in/faith-e-edet-237244194/)
+- Portfolio: [Visit my website](https://faitheedet.github.io)
+- GitHub: [faitheedet](https://github.com/faitheedet)
 ---
 
 Turning programme data into insights, learning and informed action.
